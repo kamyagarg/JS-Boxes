@@ -15,7 +15,11 @@ for (let i = 0; i < a.length; i++) {
     });
 }
 //ajfkjsfljnlndfkg
+//ndslkfnsklfm
 
+
+
+// klkdj
 // function fun1(y){
 //     let x = document.querySelector(".selected2");
 //     console.log(x,"fun1")
