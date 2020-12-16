@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid;
+    display: f;
+    justify-content: center;
+}
+
+.heading{
+    border:2px solid slateblue;
+    justify-content: center;
+    align-items: c;
+    width: 4;
+    padding: 1;
+    font-size: 2rem;
+}
+
+.reg-form{
+    border: 2px solid yellowgreen;
+    font-size: 1.2rem;
+    /* inline-size: 1rem; */
+}
