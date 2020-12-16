@@ -14,6 +14,7 @@ for (let i = 0; i < a.length; i++) {
         a[i].parentNode.classList.add("selected2");
     });
 }
+//ajfkjsfljnlndfkg
 
 // function fun1(y){
 //     let x = document.querySelector(".selected2");
