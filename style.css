@@ -37,6 +37,10 @@
     flex-direction: column;
 } */
 
-.selected,.selected2{
+.selected1, .selected2{
     flex-grow:4 ;    
+}
+
+.selected{
+    flex-grow:4 ; 
 }
